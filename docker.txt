@@ -1,0 +1,13 @@
+docker
+
+mkdir demo
+cd demo
+nano Dockerfile
+
+
+FROM alpine:latest
+CMD echo "hello world"
+
+
+sudo docker build -t demo
+docker run demo
