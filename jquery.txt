@@ -1,0 +1,237 @@
+index.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>something arts</title>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data.role="page">
+        <div data.role="header" data-theams="b">
+            <h1>flower shop</h1>
+
+        </div>
+        <div>
+            <div data-role="navbar" data-grid="c">
+            <ul>
+            <li><a href="index.html" class="ui-btn.active" >home</a></li>
+                <li><a href="about_us.html" >about_us</a></li>
+                <li><a href="product.html" >product</a></li>
+                <li><a href="login_register.html">login_register</a></li>
+                
+            </ul>
+                </div>
+                <center><h3> products</h3></center>
+
+                <div class="content">
+                    <center>
+                    <div class="rows">
+                        <div>
+                            <img src="img.jpg" height="250px" width="250px">
+                            <img src="img2.jpg" height="250px" width="250px">
+                            <img src="img3.jpg" height="250px" width="250px">
+                        </div>
+                    </div>
+                    <br>
+
+
+                    <div class="rows">
+                        <div>
+                            <img src="img.jpg" height="250px" width="250px">
+                            <img src="img2.jpg" height="250px" width="250px">
+                            <img src="img3.jpg" height="250px" width="250px">
+                        </div>
+                    </div>
+                    <br>
+
+
+                    <div class="rows">
+                        <div>
+                            <img src="img.jpg" height="250px" width="250px">
+                            <img src="img2.jpg" height="250px" width="250px">
+                            <img src="img3.jpg" height="250px" width="250px">
+                        </div>
+                    </div>
+                    <br>
+
+
+                    
+                    </center>
+
+                </div>
+                <div data-role="footer" data-theams="b">
+                    <center>
+
+                    <div class="quicklinks">
+                        <h3>quicklinks</h3>
+                        <a href="index.html" >home</a> <br><br>
+                        <a href="about_us.html" >about_us</a><br><br>
+                        <a href="product.html" >product</a><br><br>
+                        <a href="login_register.html">login_register</a><br><br>
+                        
+                    </div>
+                    <p>copyrights 2024 something Arts,All rights Resevreded </p>
+                </center>
+                </div>
+        </div>
+
+    </div>
+    
+</body>
+</html>
+
+
+
+
+
+
+login/register.html
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login_register</title>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data.role="page">
+        <div data.role="header" data-theams="b">
+            <h1>flower shop</h1>
+
+        </div>
+        <div>
+            <div data-role="navbar" data-grid="c">
+            <ul>
+            <li><a href="index.html" >home</a></li>
+                <li><a href="about_us.html" >about_us</a></li>
+                <li><a href="product.html" >product</a></li>
+                <li><a href="login_register.html"class="ui-btn.active">login_register</a></li>
+                
+            </ul>
+                </div>
+
+                <div class="content">
+                    <center><h2>Regsiter</h2></center>
+                </div>
+
+                <label> Full name:</label>
+                <input type="text"><br>
+
+                <label> Address:</label>
+                <input type="text"><br>
+
+                <label> pincode:</label>
+                <input type="text"><br>
+
+                <label> Date of birth:</label>
+                <input type="date"><br>
+
+                <label> email_id::</label>
+                <input type="email"><br>
+
+                <label> password:</label>
+                <input type="password"><br>
+                <input type="submit" value="Regsiter"><br>
+
+               <center> <a href="login.html">Already Regsiter ? login</a></center>
+
+                </div>
+                <div data-role="footer" data-theams="b">
+                    <center>
+
+                    <div class="quicklinks">
+                        <h3>quicklinks</h3>
+                        <a href="index.html" >home</a> <br><br>
+                        <a href="about_us.html" >about_us</a><br><br>
+                        <a href="product.html" >product</a><br><br>
+                        <a href="login_register.html">login_register</a><br><br>
+                        
+                    </div>
+                    <p>copyrights 2024 something Arts,All rights Resevreded </p>
+                </center>
+                </div>
+            </body>
+            </html>
+
+
+
+
+
+login.html
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login_register</title>
+    <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data.role="page">
+        <div data.role="header" data-theams="b">
+            <h1>flower shop</h1>
+
+        </div>
+        <div>
+            <div data-role="navbar" data-grid="c">
+            <ul>
+            <li><a href="index.html" >home</a></li>
+                <li><a href="about_us.html" >about_us</a></li>
+                <li><a href="product.html" >product</a></li>
+                <li><a href="login_register.html"class="ui-btn.active">login_register</a></li>
+                
+            </ul>
+                </div>
+
+                <div class="content">
+                    <center><h2>login</h2></center>
+                </div>
+
+                
+
+                <label> email_id::</label>
+                <input type="email"><br>
+
+                <label> password:</label>
+                <input type="password"><br>
+                <input type="submit" value="login"><br>
+
+               <center> <a href="login.html">Don't have account ? Regsiter</a></center>
+
+                </div>
+                <div data-role="footer" data-theams="b">
+                    <center>
+
+                    <div class="quicklinks">
+                        <h3>quicklinks</h3>
+                        <a href="index.html" >home</a> <br><br>
+                        <a href="about_us.html" >about_us</a><br><br>
+                        <a href="product.html" >product</a><br><br>
+                        <a href="login_register.html">login_register</a><br><br>
+                        
+                    </div>
+                    <p>copyrights 2024 something Arts,All rights Resevreded </p>
+                </center>
+                </div>
+            </body>
+            </html>
+
+
+
